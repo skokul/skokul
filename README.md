@@ -1,4 +1,4 @@
- Hi, I'm Kokul!
+ Hi, I'm Kokul a business analyst having experience of 4 years!
 
 👀 I'm interested in:
 
