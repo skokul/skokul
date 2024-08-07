@@ -1,45 +1,38 @@
-# About Me
+# Kokul Shanmugam
 
-I am an experienced Business Analyst with a versatile background in IT, e-Governance, and Financial Services, working across MNCs, startups, and government sectors. With 4 years of experience, I excel in requirement gathering, test case preparation, user acceptance testing, and project management. My skills include prioritizing requirements, creating wireframes, user stories, and BPMN diagrams, and delivering MVPs and final products. I am proficient in process improvement and optimizing workflows. I am an excellent communicator, fostering successful client liaison and project delivery across global markets such as the USA, UK, Singapore, India, and UAE. I am adept at critically evaluating complex problems, interpreting data for actionable insights, and devising innovative solutions to drive significant business value and operational efficiency.
+## Business Analyst | Data Enthusiast | Technology Advocate
 
-## Key Skills
+Welcome to my GitHub profile! I’m Kokul Shanmugam, a dedicated Business Analyst with over 4 years of experience in IT, e-Governance, and Financial Services. My journey has been shaped by a passion for translating complex business needs into actionable insights and solutions.
 
-- **Project Management:** Define project scope, goals, and deliverables; manage project backlog; conduct user acceptance tests; identify and manage project scope changes.
-- **Requirements Gathering & Analysis:** Decompose requirements into stories; define acceptance criteria; facilitate stakeholder communications; prepare requirement documentation.
-- **Process Improvement:** Identify areas for improvement; promote continuous learning and adaptation; track KPIs; implement retrospective action items.
-- **Communication & Collaboration:** Ensure timely client communication; foster collaboration among team members and stakeholders.
-- **Documentation:** Create and maintain Functional Requirement Documents (FRD); user flows; competitor analysis; feature prioritization.
-- **Business Process Modeling:** Document business processes; perform user acceptance testing; manage scope, risks, and issues; deliver MVPs and final products.
+### 🔧 Skills
 
-## Experience Highlights
+- **Business Analysis**: Functional Requirement Document (FRD), Business Requirement Document (BRD), Use Cases, Gap Analysis, Root Cause Analysis
+- **Agile Methodologies**: SCRUM, Agile ceremonies, Cross-team Coordination
+- **Technical Skills**: Python, SQL, SWIFT Payments
+- **Tools**: Zoho Project, Jira, Confluence, WordPress, GTExchange, Balsamiq, FigJam, Excel, Miro
+- **Certifications**: GTX Fundamentals and Practitioner by Bottom Line Technologies, Basic 3D Animation using Blender by IIT BombayX, Academic Associate in Data Science and Big Data Analytics by EMC
 
-- **Project Management:** Successfully led projects to on-time delivery by coordinating effectively with internal teams and clients, resulting in a significant increase in delivery punctuality.
-- **Root Cause Analysis:** Conducted comprehensive analyses to swiftly resolve issues, reducing average resolution time and bugs significantly.
-- **Defect Management:** Efficiently managed the defect process, ensuring software quality and facilitating change requests and user acceptance testing.
-- **Process Improvement:** Implemented process improvements that fostered a culture of continuous learning, contributing to improved team velocity.
-- **Client Collaboration:** Reduced customer onboarding time through streamlined communication and workflow changes.
+### 📈 Experience
 
-## Tools & Technologies
+- **Business Analyst** at Nila Apps Pvt Ltd (05/2023 – Present)
+  - Facilitated agile ceremonies, improved delivery efficiency by 50%
+  - Managed defect tracking and led UAT
+  - Enhanced customer onboarding by 70%
 
-- **Project Management Tools:** Zoho Project, Jira, Confluence
-- **Requirements Gathering:** Interviews, surveys, workshops
-- **Process Mapping:** Balsamiq, FigJam
-- **Data Analysis:** SQL, Excel
-- **Documentation:** Microsoft Office Suite (Excel, PowerPoint, Word), SharePoint
-- **Agile Methodologies:** Scrum
+- **Assistant System Engineer** at Tamil Nadu e-Governance Agency (09/2022 - 05/2023)
+  - Drafted RFQs/RFPs and led stakeholder engagement
+  - Reduced change requests by ~90%
 
-## Education & Certifications
+- **Project Engineer** at Wipro Limited (11/2017 - 02/2020)
+  - Specialized in SWIFT payment systems and CHAPS, BACS enhancements
 
-- **Bachelor’s degree in Computer Science and Engineering, Panimalar Institute of Technology**
-- **Certifications:**
-  - GTX Fundamentals by Bottom Line Technologies
-  - GTX Practitioner 1 by Bottom Line Technologies
-  - GTX Fundamentals, Practitioner 2 by Bottom Line Technologies
-  - Basic 3D Animation using Blender by IIT BombayX
-  - Academic Associate, Data Science, and Big Data Analytics by EMC
+### 🛠️ Tech Stack
 
-## Contact Information
+- **Languages**: Python, SQL
+- **Tools**: Zoho Project, Jira, Confluence, GTExchange, Balsamiq, FigJam, Miro, Excel
+- **Certifications**: GTX Fundamentals, Practitioner by Bottom Line Technologies, Basic 3D Animation using Blender by IIT BombayX
 
-- **Email:** kokulshanmugam12@gmail.com
-- **LinkedIn:** [linkedin.com/in/skokul](https://www.linkedin.com/in/skokul)
-- **Location:** Chennai
+### 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/kokulshanmugam/)
+- [Email](mailto:kokul.shanmugam@example.com)
