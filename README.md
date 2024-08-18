@@ -4,7 +4,6 @@
 
 Dynamic professional with 4 years of experience in IT, e-Governance, and Financial Services, working across MNCs, startups, and government sectors. Expertise in requirement gathering, test case preparation, and user acceptance testing, ensuring rigorous project management from scope definition to UAT. Adept at prioritizing requirements, creating wireframes, user stories, and BPMN diagrams for MVPs and final products. Skilled in process improvement and optimizing workflows. Proven success in client relationship management and project delivery across global markets, including the USA, UK, Singapore, India, and UAE. Combines Business Analyst insights with Product Owner strategy and Customer Success Manager focus on client satisfaction. Proficient in problem-solving, data interpretation, and delivering innovative solutions that enhance business value and operational efficiency. Seeking to leverage technical skills and business acumen to drive high-quality product delivery.
 
-- 📞 [Phone Number: 0807-244-8109](tel:0807-244-8109)
 - 📧 [Email: kokulshanmugam12@gmail.com](mailto:kokulshanmugam12@gmail.com)
 - 🌐 [LinkedIn](https://linkedin.com/in/skokul/)
 - 🌍 Chennai
