@@ -2,7 +2,7 @@
 
 **Product Owner | Business Strategy | Agile Delivery**
 
-- Email: kokulshanmugam12@gmail.com
+- Email: kokuls@zohomail.com
 - LinkedIn: [linkedin.com/in/skokul](https://linkedin.com/in/skokul)
 - GitHub: [github.com/skokul](https://github.com/skokul)
 
