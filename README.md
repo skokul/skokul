@@ -59,9 +59,6 @@ I actively use AI tools to accelerate delivery and rapid prototyping.
 - Built a client analytics dashboard using Codex in under 8 hours  
 - Developed a personal finance manager Android app using Claude AI  
 - Generated UI prototypes from text prompts using Google Stitch for faster requirement validation  
-- Automated workflows and scripting using GitHub Copilot  
-
-> A modern Product Owner should not only define requirements but also prototype and validate solutions rapidly using AI tools.
 
 ---
 
