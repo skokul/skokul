@@ -67,7 +67,7 @@ I actively use AI tools to accelerate delivery and rapid prototyping.
 | Domain | Experience |
 |--------|-----------|
 | EdTech and LMS | 3 years (enterprise global clients) |
-| e-Governance | 1 year (Government of Tamil Nadu) |
+| e-Governance | < 1 year (Government of Tamil Nadu) |
 | Financial Services | 2 years (Lloyds Bank UK, payment systems) |
 | Enterprise SaaS | Custom multi-tenant platforms |
 
